@@ -11,6 +11,3 @@ def input_to_index(number)
   num = number.to_i
   return num - 1
 end
-
-
-  
