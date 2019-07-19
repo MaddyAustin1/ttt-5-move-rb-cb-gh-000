@@ -13,6 +13,6 @@ def input_to_index(number)
 end
 
 
-def move(array, number, character = "X")
+def move(array, number, character = "X"s)
   board[number] = character
 end
